@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-cover.svg" alt="Danila Zakharov - product leader building practical software for macOS, mobile, Figma, and AI workflows" width="100%">
-
   <h1>Danila Zakharov</h1>
 
   <p>
-    <strong>Head of Product</strong> building practical software where design, AI, and engineering meet.
-    I turn recurring workflow pain into focused tools, from macOS utilities to Figma plugins and mobile apps.
+    <strong>Head of Product</strong> · <strong>AI enthusiast</strong> · <strong>Solo developer</strong>
+  </p>
+
+  <p>
+    I build and ship practical products where product strategy, AI workflows, UX, and hands-on engineering meet.
+    My focus: turning real user pain into clear, useful tools.
   </p>
 
   <p>
@@ -19,10 +21,10 @@
 
 ## What I do
 
-- Product strategy, discovery, UX, and execution for consumer and productivity software.
-- AI-assisted workflows, internal automation, ASO tooling, and product operations.
-- Native macOS utilities, Flutter mobile apps, and Figma plugin experiments.
-- Opinionated tools for real user problems, not abstract demos.
+- Lead product strategy, discovery, UX, and execution for consumer and productivity software.
+- Build solo tools end-to-end: idea, UX, code, distribution, release, feedback loop.
+- Use AI as leverage for product work, automation, content, ASO, research, and engineering.
+- Ship native macOS utilities, Flutter mobile apps, Figma plugins, and internal tooling.
 
 ## Featured work
 
@@ -35,7 +37,7 @@
 
 ## Product approach
 
-I like products that are small on the surface and sharp underneath:
+I like products that are simple on the surface and sharp underneath:
 
 - clear user pain;
 - fast path to value;
@@ -43,6 +45,8 @@ I like products that are small on the surface and sharp underneath:
 - minimal setup;
 - practical automation;
 - measurable distribution loops.
+
+As a solo developer, I care about ruthless scope control. If a product can solve the core problem with a menu bar utility, a script, a plugin, or a focused mobile flow, I prefer that over unnecessary platform complexity.
 
 ## Stack and tools
 
@@ -62,6 +66,7 @@ I like products that are small on the surface and sharp underneath:
 ## Current interests
 
 - AI-native product workflows that remove repetitive product and marketing work.
+- Solo developer systems for building, releasing, and learning faster.
 - macOS utilities for creators, streamers, podcasters, and remote teams.
 - Figma plugin automation for designers and product teams.
 - Mobile growth: ASO, onboarding, paywalls, retention, and localization.
@@ -75,10 +80,9 @@ I like products that are small on the surface and sharp underneath:
 
 ## Search keywords
 
-Product leader, Head of Product, macOS utility, CoreAudio, Bluetooth microphone fix, AirPods microphone quality, Sony WH-1000XM headset mode, Figma plugin, Flutter app, AI product workflows, ASO automation, mobile growth, UX strategy.
+Head of Product, AI enthusiast, solo developer, product leader, product strategy, UX strategy, macOS utility, CoreAudio, Bluetooth microphone fix, AirPods microphone quality, Sony WH-1000XM headset mode, Figma plugin, Flutter app, AI product workflows, ASO automation, mobile growth.
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/wantbefree](https://www.linkedin.com/in/wantbefree/)
 - GitHub: [github.com/WantbeFree](https://github.com/WantbeFree)
-
